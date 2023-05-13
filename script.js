@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const canva = document.getElementById('canvas'); //buscando o elemento do documento HTML com o id "canvas"
 const ctx = canvas.getContext('2d'); // obtendo o contexto 2d para desenhar na tela em 2d 
 ctx.strokeStyle = "aquamarine"; // definindo a cor do contorno do desenho que é aquamarine
@@ -5,6 +6,15 @@ ctx.fillStyle = "white"; // preenchendo a cor branca dentro no desenho
 ctx.lineWidth = 2; // tamanho da linha do contorno do desenho
 ctx.fillRect (50,50,150,50); //  estamos usando o contexto 2D para desenhar um retângulo preenchido. Os quatro parâmetros representam a posição e as dimensões do retângulo. No caso, estamos desenhando um retângulo preenchido nas coordenadas (50, 50) -> (x,y) com largura 150 e altura 50.
 ctx.strokeRect (50,50,150,50); // para desenhar o contorno do desenho usando as mesmas coordenadas do preenchimento
+=======
+const canva = document.getElementById('canvas');
+const ctx = canvas.getContext('2d'); 
+ctx.strokeStyle = "aquamarine";
+ctx.fillStyle = "white";
+ctx.lineWidth = 2;
+ctx.fillRect (50,50,150,50); 
+ctx.strokeRect (50,50,150,50);
+>>>>>>> 516374dba719595ce9ae373f8eabc327b0034409
 
 
 const canva2 = document.getElementById('canvas2');
@@ -49,4 +59,7 @@ img.onload = function () { // função criada para desenhar a imagem na tela
   ctx6.drawImage(img, 0, 0); // desenhando a imagem conforme as coordenadas
 };
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 516374dba719595ce9ae373f8eabc327b0034409
