@@ -18,12 +18,9 @@
   <p> 
    - index.html -> Contém o elemento <canvas> e carrega o arquivo JavaScript. <br>
    - script.js -> Contém o código para criar e desenhar as formas no canvas. <br>
-<<<<<<< HEAD
    - img/punk.png -> Pasta que contém a imagem. <br>
    - css.style -> Contém o código que arruma a imagem
-=======
    - img/punk.png -> Pasta que contém a imagem. 
->>>>>>> 4904937bb1daa1585c3dcabb7fa03e1f1e2b4443
   </p>
   
   <br>
@@ -36,12 +33,7 @@
   > <em>Curva de Bezier</em>: Demonstração de como desenhar uma curva de Bezier usando o método  <em><strong>bezierCurveTo()</strong></em>. <br>
   > <em>Imagem</em>: Demonstração de como exibir uma imagem no canvas utilizando o método  <em><strong>drawImage()</strong></em>. </p>
   
-<<<<<<< HEAD
-=======
 
 
-
- 
->>>>>>> 4904937bb1daa1585c3dcabb7fa03e1f1e2b4443
 
 
