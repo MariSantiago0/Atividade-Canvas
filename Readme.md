@@ -8,9 +8,8 @@
 
 *[Formas no Canvas](#formas-no-canvas)
 
-*[](#enfeitando-usando-css)
 
-<h2> Descrição do projeto <?h2>
+<h2> Descrição do projeto </h2>
   Este é um projeto de exemplo que demonstra como criar e desenhar formas no elemento <em><strong><canvas></strong></em>  utilizando JavaScript. O objetivo é fornecer uma compreensão básica de como utilizar o Canvas para criar formas gráficas e imagens.
   
 <h3> Estrutura do Projeto </h3>
@@ -25,6 +24,8 @@ Linhas: Demonstração de como desenhar linhas retas e curvas usando os métodos
 Triângulo: Demonstração de como desenhar um triângulo preenchido no canvas.
 Curva de Bezier: Demonstração de como desenhar uma curva de Bezier usando o método  <em><strong>bezierCurveTo()</strong></em>.
 Imagem: Demonstração de como exibir uma imagem no canvas utilizando o método  <em><strong>drawImage()</strong></em>.
+  
+
 
 
  
