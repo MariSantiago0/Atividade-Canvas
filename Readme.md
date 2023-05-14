@@ -26,7 +26,7 @@
   <br>
 
 <h3> Formas do Canvas utilizadas </h3>
-<p> Retângulo: Demonstração de como criar um retângulo preenchido e contornado no canvas. <br>
+<p> > <em>Retângulo</em>: Demonstração de como criar um retângulo preenchido e contornado no canvas. <br>
   > <em>Círculo</em>: Demonstração de como criar um círculo preenchido no canvas. <br> 
   > <em>Linhas</em>: Demonstração de como desenhar linhas retas e curvas usando os métodos <em><strong>moveTo()t</strong></em> e <em><strong>lineTo()</strong></em>. <br> 
   > <em>Triângulo</em>: Demonstração de como desenhar um triângulo preenchido no canvas. <br> 
