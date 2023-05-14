@@ -16,11 +16,11 @@
   
 <h3> Estrutura do Projeto </h3>
   <p> 
-   - index.html -> Contém o elemento <canvas> e carrega o arquivo JavaScript. <br>
-   - script.js -> Contém o código para criar e desenhar as formas no canvas. <br>
-   - img/punk.png -> Pasta que contém a imagem. <br>
-   - css.style -> Contém o código que arruma a imagem
-   - img/punk.png -> Pasta que contém a imagem. 
+   - <bold>index.html</bold> -> Contém o elemento <canvas> e carrega o arquivo JavaScript. <br>
+   - <bold>script.js</bold> -> Contém o código para criar e desenhar as formas no canvas. <br>
+   - <bold>img/punk.png</bold> -> Pasta que contém a imagem. <br>
+   - <bold>css.style</bold> -> Contém o código que arruma a imagem
+   - <bold>img/punk.png</bold> -> Pasta que contém a imagem. 
   </p>
   
   <br>
