@@ -26,12 +26,29 @@
   <br>
 
 <h3> Formas do Canvas utilizadas </h3>
-<p> > <em>Retângulo</em>: Demonstração de como criar um retângulo preenchido e contornado no canvas. <br>
-  > <em>Círculo</em>: Demonstração de como criar um círculo preenchido no canvas. <br> 
-  > <em>Linhas</em>: Demonstração de como desenhar linhas retas e curvas usando os métodos <em><strong>moveTo()t</strong></em> e <em><strong>lineTo()</strong></em>. <br> 
-  > <em>Triângulo</em>: Demonstração de como desenhar um triângulo preenchido no canvas. <br> 
-  > <em>Curva de Bezier</em>: Demonstração de como desenhar uma curva de Bezier usando o método  <em><strong>bezierCurveTo()</strong></em>. <br>
-  > <em>Imagem</em>: Demonstração de como exibir uma imagem no canvas utilizando o método  <em><strong>drawImage()</strong></em>. </p>
+<p>  <em>Retângulo</em>: Demonstração de como criar um retângulo preenchido e contornado no canvas. 
+ <center> <img src="img/retangulo.png" alt="retangulo"></center>
+  <br>
+
+   <em>Círculo</em>: Demonstração de como criar um círculo preenchido no canvas.  
+   <center> <img src="img/circulo.png" alt="circulo"></center>
+  <br>
+  
+  <em>Linhas</em>: Demonstração de como desenhar linhas retas e curvas usando os métodos <em><strong>moveTo()t</strong></em> e <em><strong>lineTo()</strong></em>. 
+   <center>  <img src="img/reta.png" alt="reta"></center>
+  <br>
+  
+   <em>Triângulo</em>: Demonstração de como desenhar um triângulo preenchido no canvas. 
+   <center> <img src="img/triangulo.png" alt="triangulo"></center>
+  <br>
+  
+   <em>Curva de Bezier</em>: Demonstração de como desenhar uma curva de Bezier usando o método  <em><strong>bezierCurveTo()</strong></em>. 
+   <center> <img src="img/curva.png" alt="curva"></center>
+  <br>
+  
+   <em>Imagem</em>: Demonstração de como exibir uma imagem no canvas utilizando o método  <em><strong>drawImage()</strong></em>. </p>
+   <center> <img src="img/imagem.png" alt="imagem"></center>
+  <br>
   
 
 
