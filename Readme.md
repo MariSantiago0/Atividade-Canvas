@@ -82,7 +82,7 @@ ctx2.fill(); -> vai preencher com cor esse contorno, para que fique visivel.
 ctx5.lineWidth = 2; -> largura da linha do contorno <br>
 ctx5.moveTo(50, 50); -> move o cursor para a posição (50, 50) no canvas, preparando-se para desenhar a partir dessa nova posição. <br>
 ctx5.bezierCurveTo(100, 0, 200, 200, 250, 50); ->  desenha uma curva de Bezier cúbica em um elemento canvas. <br>
-ctx5.stroke(); <br> 
+ctx5.stroke(); -> vai preencher com cor esse contorno, para que fique visivel. <br> 
 ] <br><br>
   <img src="img/curva.png" alt="curva"></center>
   <br></p>
