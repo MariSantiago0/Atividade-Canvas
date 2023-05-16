@@ -32,7 +32,7 @@
 ctx.strokeStyle = "aquamarine"; -> definindo a cor do contorno do desenho que é aquamarine. <br>
 ctx.fillStyle = "white"; -> preenchendo a cor branca dentro no desenho. <br>
 ctx.lineWidth = 2; -> tamanho da linha do contorno do desenho. <br>
-ctx.fillRect (65,55,95,65); ->  estamos usando o contexto 2D para desenhar um retângulo preenchido. Os quatro parâmetros representam a posição e as dimensões do retângulo. No caso, estamos desenhando um retângulo preenchido nas coordenadas (50, 50) -> (x,y) com largura 150 e altura 50. <br>
+ctx.fillRect (65,55,95,65); ->  e desenha um retângulo preenchido no canvas, começando nas coordenadas (65, 55) e tendo uma largura de 95 unidades e uma altura de 65 unidades. <br>
 ctx.strokeRect (65,55,95,65); -> para desenhar o contorno do desenho usando as mesmas coordenadas do preenchimento. <br>
 ] <br><br>
   <img src="img/retangulo.png" alt="retangulo"></center>
